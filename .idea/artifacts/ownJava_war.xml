@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ownJava:war">
+    <output-path>$PROJECT_DIR$/../ownJava/target</output-path>
+    <root id="archive" name="ownJava.war">
+      <element id="artifact" artifact-name="ownJava:war exploded" />
+    </root>
+  </artifact>
+</component>
