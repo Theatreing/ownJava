@@ -1,4 +1,4 @@
 package common;
 
-public class errorTest {
+public class errorTest   {
 }
